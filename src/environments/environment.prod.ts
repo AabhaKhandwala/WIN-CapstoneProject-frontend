@@ -1,4 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
 };
-export const apiUrl = '/api';
+export const apiUrl = "https://polar-dawn-50804.herokuapp.com/api";
